@@ -6,6 +6,8 @@ some other was written using vs code at a macOS.
 
 So that is a multi things learing exercise, majoring anaconda python projects.   
 
-- Class01- Is a little ecommerce graph exemple with some data analytics from moc data
+- Class01- Is a little ecommerce graph exemple with some data analytics from moc data;
 
-- Class02- Is a OOP exemplo working with inhainement, polimorphsm and other oop things
+- Class02- Is a OOP exemplo working with inhainement, polimorphsm and other oop things;
+
+- Class03- Is a Numpy exercise, working with ndarrays manipulation and little data correlation;
